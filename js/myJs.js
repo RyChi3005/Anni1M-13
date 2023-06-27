@@ -1,8 +1,8 @@
 const textConfig = {
   text1: "Hé lu em bé của anh ❤️",
   text2: "Hôm nay là tụi mình dính nhau được 30 ngày ròi nè :3",
-  text3: "Hôm nay chắc là hong có gặp em được ròi, nên là anh có cái này cho em bé nè 💕",
-  text4: "Có gì chủ nhật anh gặp bé gòi anh đưa cho bé cái này dễ thương lắm 😉 Bé chờ anh",
+  text3: "Hôm nay chắc hong gặp em bé được òi :<, nên anh có cái này cho em bé nè 💕",
+  text4: "Có gì chủ nhật anh gặp bé gòi anh đưa cho bé cái này dễ thương lắm 😉 Bé chờ anh.",
   text5: "Thoii cám ơn hổng thèm nhận đâu 🙄",
   text6: "Đâu cho em xem thử vớiii =))",
   text7: "Em có gì muốn nói với anh hong? 🙄",
@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Em thương anh lắm á =)))))",
   text10: "Anh cũng thương em bé của anh lắm lắm lắm luôn á 😽",
   text11:
-    "Hổng có cái chuyện mà yêu được mấy tháng hay gì đó tương tự zậy đâu nha 🙄. Yêu cả đời ❤️❤️❤️",
+    "Hổng có cái chuyện mà yêu được mấy tháng hay gì đó tương tự zậy đâu nha, chọc anh quài 🙄. Mãi thương mãi yêu ❤️❤️❤️",
   text12: "Yêuuuu anhhh :3",
 };
 
